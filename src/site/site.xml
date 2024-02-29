@@ -25,7 +25,7 @@
     </links>
 
     <menu name="Documentation">
-      <!--<item name="Xdoc Example" href="xdoc.html"/>-->
+      <!--<item name="Xdoc Example" href="xdoc.html"/>--->
     </menu>
 
     <menu ref="reports" />
